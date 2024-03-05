@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class MySQLConnection {
     String database = "jdbc:mysql://localhost:3306/kailua_car_rental";
     String username = "root";
-    String password = "password";
+    String password = "password1";
     private Connection connection = null;
 
     public MySQLConnection() {
